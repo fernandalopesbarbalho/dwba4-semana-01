@@ -3,3 +3,5 @@ Código em HTML e CSS produzidos para entrega em atividades, exercícios e traba
 
 ## Apresentação do aluno - 14/02/2024
 Informa dados do aluno que realizou a atividade para introdução dos ambientes de desenvolvimento.
+
+[Acesse o site](https://fernandalopesbarbalho.github.io/dwba4-semana-01-pt302525x/)
